@@ -1,2 +1,3 @@
 # grace
-no copyrights infringement intended
+<<<<<<< HEAD
+for acads only. no copyrights intended
